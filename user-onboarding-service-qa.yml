@@ -13,8 +13,5 @@ spring:
       enabled: true
       path: /console
 
-
 user-onboarding-service:
-  name: default
-
-
+  name: qa
